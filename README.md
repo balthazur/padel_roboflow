@@ -3,4 +3,4 @@
 https://www.youtube.com/watch?v=pXFmkRRd3Fc
 
 
-![model evaluation](/model.png")
+![model evaluation]("model.png")
