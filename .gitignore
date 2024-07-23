@@ -1,8 +1,6 @@
-# Ignore everything
 *
 
-# Allow .ipynb files in the root directory only
 !/*.ipynb
-
-# Ignore .ipynb files in any subdirectory
-/**/*.ipynb
+!/*.txt
+!/*.csv
+!/*.mp4
