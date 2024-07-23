@@ -2,5 +2,4 @@
 
 https://www.youtube.com/watch?v=pXFmkRRd3Fc
 
-
-![model evaluation]("model.png")
+![Model Image](https://github.com/balthazur/padel_roboflow/blob/main/model.png)
