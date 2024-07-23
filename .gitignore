@@ -1,4 +1,8 @@
+# Ignore everything
 *
-!*/
-!.gitignore
-!*.ipynb
+
+# Allow .ipynb files in the root directory only
+!/*.ipynb
+
+# Ignore .ipynb files in any subdirectory
+/**/*.ipynb
